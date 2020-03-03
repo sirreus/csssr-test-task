@@ -1,0 +1,13 @@
+{
+  "name": "my-test-task",
+  "version": "0.1.0",
+  "private": true,
+  "scripts":{
+      "test": "codeceptjs run --steps"
+  },
+  "dependencies": {
+    "codeceptjs": "^2.5.0",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^2.1.1"
+  }
+}
