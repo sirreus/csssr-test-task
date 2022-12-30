@@ -6,7 +6,7 @@
       "test": "codeceptjs run --steps"
   },
   "dependencies": {
-    "codeceptjs": "^2.5.0",
+    "codeceptjs": "^3.0.0",
     "node-fetch": "^2.6.0",
     "puppeteer": "^2.1.1"
   }
